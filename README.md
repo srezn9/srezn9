@@ -1,4 +1,4 @@
-<img src="https://github.com/yourusername/yourusername/blob/main/banner.png](https://i.postimg.cc/VvM9HC0N/github-header-banner.png" alt="banner" />
+<img src="https://https://i.postimg.cc/VvM9HC0N/github-header-banner.png" alt="banner" />
 
 ## Hi there 👋
 
