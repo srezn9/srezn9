@@ -28,9 +28,9 @@ HTML | CSS | JavaScript | React | Firebase | MongoDB | Git
 
 ### 📫 How to Reach Me
 
-- Email: yourprofessionalemail@gmail.com
+- Email: srezoana8910@gmail.com
 - [LinkedIn](https://linkedin.com/in/your-link)
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/srezn9)
 
 ---
 
