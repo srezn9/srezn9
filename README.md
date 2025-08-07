@@ -54,5 +54,4 @@ Always eager to learn new technologies and contribute to meaningful projects.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srezn9&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srezn9&theme=highcontrast)
 
