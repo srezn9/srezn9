@@ -1,7 +1,7 @@
-<img src="https://i.postimg.cc/VvM9HC0N/github-header-banner.png" alt="banner" style="width:100%;" />
+<img src="https://i.postimg.cc/fRny3fmy/github-header-banner-2.png" alt="banner" style="width:100%;" />
 
 # Hi, I'm Sadia Rezoana 👋  
-**Frontend Developer | Web Developer**
+**Web Developer | MERN Stack Developer| Frontend Developer |**
 
 ---
 
@@ -43,7 +43,7 @@ Always eager to learn new technologies and contribute to meaningful projects.
 ### 📫 How to Reach Me
 
 - Email: srezoana8910@gmail.com
-- [LinkedIn](https://linkedin.com/in/your-link)
+- [LinkedIn](https://www.linkedin.com/in/srezn9/)
 - [GitHub](https://github.com/srezn9)
 
 ---
