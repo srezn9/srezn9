@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/fRny3fmy/github-header-banner-2.png" alt="banner" style="width:100%;" />
 
-# Hi, I'm Sadia Rezoana 👋  
+## Welcome to my GitHub profile!  
 **Web Developer | MERN Stack Developer| Frontend Developer |**
 
 ---
