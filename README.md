@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/fRny3fmy/github-header-banner-2.png" alt="banner" style="width:100%;" />
+<img src="https://i.postimg.cc/C5BVF9K1/github-header-banner-3.png" alt="banner" style="width:100%;" />
 
 ## Welcome to my GitHub profile!  
 **Web Developer | MERN Stack Developer| Frontend Developer |**
