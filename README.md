@@ -50,9 +50,7 @@ Always eager to learn new technologies and contribute to meaningful projects.
 
 ### 📊 GitHub Stats
 
-(![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srezn9&show_icons=true&count_private=true&cache_seconds=3600)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srezn9&show_icons=true&count_private=true&theme=radical&cache_seconds=3600)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srezn9&layout=compact)
 
 
